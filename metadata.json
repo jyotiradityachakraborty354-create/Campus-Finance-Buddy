@@ -1,0 +1,6 @@
+{
+  "name": "Campus Finance Buddy",
+  "description": "Your Money. Your Decisions. Your Future. A monochromatic student expense tracker, spending analytics suite, Gemini AI financial assistant, and deterministic budget planner.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
